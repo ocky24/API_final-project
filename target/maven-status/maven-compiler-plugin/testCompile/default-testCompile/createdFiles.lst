@@ -1,0 +1,7 @@
+stepdefinitions\loginSteps.class
+stepdefinitions\clinicSteps.class
+langkah\login.class
+langkah\clinic.class
+langkah\logout.class
+stepdefinitions\logoutSteps.class
+CucumberTestSuite.class

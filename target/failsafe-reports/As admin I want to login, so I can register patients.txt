@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: As admin I want to login, so I can register patients
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.3 s - in As admin I want to login, so I can register patients
